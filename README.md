@@ -1,4 +1,4 @@
-# lab_1_application
+# Marko Nedelkovski 213280
 
 A new Flutter project.
 
